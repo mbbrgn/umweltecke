@@ -1,6 +1,6 @@
 # Umweltecke
 
-Hiermit wird die Umweltecke des Bergener Gemeindeblatts wiederbelebt, welche mein Vorgänger in den 90er Jahren ins Leben gerufen hat. Aber wieso braucht es eigentlich eine parteiunabhängige Umweltecke? Na, weil die Umwelt keiner Partei alleine gehört. Die Umweltecke soll fortan nun wieder ein Gefühl für die Zusammenhänge aus Umwelt und Klima vermitteln.
+Hiermit wird die Umweltecke des Bergener Gemeindeblatts wiederbelebt, welche mein Vorgänger in den 90er Jahren ins Leben gerufen hat. Aber wieso braucht es eigentlich eine parteiunabhängige Umweltecke? Na, weil die Umwelt keiner Partei alleine gehört! Die Umweltecke soll fortan nun wieder ein Gefühl für die Zusammenhänge aus Umwelt und Klima vermitteln.
 
 Thema: „Wieso erwärmt sich die Erde durch Kohlenstoffdioxid (CO2)“?
 Die kurzwelligen Sonnenstrahlen (Wellenlänge ca. 0,0000005m \[1\], gelb im Bild) können durch CO2 „durchscheinen“. Sobald sie auf die Erde treffen, werden 30% der Strahlung zurück ins Weltall reflektiert und 50% erwärmen die Erde. Die restlichen 20% bleiben in der Atmosphäre \[2\]. Die so erwärmte Erde strahlt dann Wärme ab – diese Strahlung ist jedoch langwelliger (Wellenlänge ca. 0,00001m \[2\], orange im Bild) und scheint nicht durch das CO2 hindurch, sondern wird vom CO2 in der Atmosphäre zurück zur Erde reflektiert. Dadurch erwärmt sich die Erde noch mehr.
