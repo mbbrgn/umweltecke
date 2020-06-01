@@ -7,11 +7,10 @@ Die kurzwelligen Sonnenstrahlen (Wellenlänge ca. 0,0000005m \[1\], gelb im Bild
 
 <img src="k_brgn_bounded.png" width="300" height="300" />
 Viele kennen den Effekt der Abstrahlung und Reflexion vom Skifahren. Nach einer sternenklaren Nacht ist die „Scharte“ vom Hochfelln in der Früh eisig, da die Wärmestrahlung ins Weltall entweicht. Ist es bewölkt, so wird die Wärmestrahlung reflektiert und die Nacht bleibt warm, die „Scharte“ ist weich.
-    
-Dieser Effekt ist seit langem verstanden, und so konnten z.B. schon die Klimamodelle der 60er Jahre dazu genutzt werden, um den globalen Mitteltemperatur Anstieg unter Annahme einer Verdoppelung des CO2 Gehalts zu berechnen \[3\].
-Ein folgenden Beitrag der Umweltecke erklärt, woher das CO2 unserer Atmosphäre stammt.
 
-Referenzen aus diesem Beitrag gibt es „anklickbar“ unter https://twitter.com/ueckebrgn oder diesem QR-Code. MB <br />
+Dieser Effekt ist seit langem verstanden, und so konnten z.B. schon die Klimamodelle der 60er Jahre dazu genutzt werden, um den globalen Mitteltemperatur Anstieg unter Annahme einer Verdoppelung des CO2 Gehalts zu berechnen \[3\].
+
+Ein folgenden Beitrag der Umweltecke erklärt, woher das CO2 unserer Atmosphäre stammt. Referenzen aus diesem Beitrag gibt es „anklickbar“ unter https://twitter.com/ueckebrgn oder diesem QR-Code. MB <br />
 <img src="ueckebrgn_qr_code.png" width="100" height="100" />
 
 ----
