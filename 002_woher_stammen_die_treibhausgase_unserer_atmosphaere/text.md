@@ -22,7 +22,7 @@ Das Thema der folgenden Umweltecke wird sein, wieso erhöhte Temperaturen überh
 \[1\]: Wieso erwärmt sich die Erde durch Kohlenstoffdioxid (CO2), https://github.com/mbbrgn/umweltecke/blob/master/001_wieso_erwaermt_sich_die_erde_durch_co2/text.md, Umweltecke 2020-06-05 <br /> 
 \[2\]: „Kleine Gase - Grosse Wirkung: Der Klimawandel“, D. Nelles, C. Serrer, Seite 35-37, 2018  <br /> 
 \[3\]: „Climate Change 2007, The Physical Science Basis“, S. Solomon, D. Qin, M. Manning, M. Marquis, K. Averyt, M. M.B. Tignor, H. L. Miller, Z. Chen, Seite 514-515, https://archive.ipcc.ch/pdf/assessment-report/ar4/wg1/ar4_wg1_full_report.pdf, Cambridge University Press, 2007 <br /> 
-\[4\]: https://www.umweltbundesamt.de/themen/klima-energie/treibhausgas-emissionen/emissionsquellen#energie-stationar, Daten als Excel-Datei abgerufen 2020-06-26 <br /> 
+\[4\]: http://www.umweltbundesamt.de/themen/klima-energie/treibhausgas-emissionen/emissionsquellen, Daten als Excel-Datei abgerufen 2020-06-26 <br /> 
 \[5\]: Jupyter Notebook welches die Grafiken dieses Artikels erzeugt https://github.com/mbbrgn/umweltecke/blob/master/002_woher_stammen_die_treibhausgase_unserer_atmosphaere/emissionsquellen.ipynb 2020-06-29 <br /> 
 \[6\]: „Klimaschutz in ZahlenFakten, Trends und Impulse deutscher Klimapolitik“, Seite 38, https://www.bmu.de/fileadmin/Daten_BMU/Pools/Broschueren/klimaschutz_in_zahlen_2018_bf.pdf Seite 38, 2018 <br /> 
 
