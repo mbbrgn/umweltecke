@@ -3,27 +3,27 @@
 Nachdem die letzte Umweltecke erklärt hatte, wieso sich die Erde durch Treibhausgase erwärmt \[1\], geht es heute um das Thema: „Woher stammen die Treibhausgase unserer Atmosphäre“.
 
 Die Natur selbst gleicht ihre eigenen Treibhausgas-Emissionen wieder aus \[2\]. Es geht sogar darüber hinaus: Das Meer und terrestrische Ökosysteme nehmen zusätzlich einen großen Teil (45%) der menschengemachten Treibhausgase auf \[3\]. Die in der Atmosphäre verbleibenden, menschengemachten Treibhausgas-Emissionen summieren sich jedoch Jahr für Jahr auf (deren aktuell wichtigster Bestandteil CO2 \[2\] ist nicht flüchtig, Zeitskala 30 bis 100 Jahre \[3\]). Diese kumulativ über die Jahre angesammelten Treibhausgas-Emissionen zeigt das erste Bild beispielhaft für Deutschland \[4, 5\]. <br />
-![Bild 1](test/treibhausgase_kumulativ.png)
+![Treibhausgase kumulativ](treibhausgase_kumulativ.png)
 
 Die im Bild gezeigte, Jahr für Jahr steigende Treibhausgas-Menge in unserer Atmosphäre ist der Grund, wieso es so wichtig ist, den Treibhausgas Ausstoß aktiv zu reduzieren, anstatt ihn einfach nur stabil zu halten.
 
 Aber woher kommen diese menschengemachte Treibhausgas-Emmisionen in Deutschland? Die Hauptverursacher zeigt das zweite Bild \[4, 5\]. Hier fällt die Energiewirtschaft (orange) als einer der größten Verursacher von Treibhausgas auf. Durch erneuerbare Energien und effektivere Energienutzung wird dessen Treibhausgas Ausstoß von Jahr zu Jahr weniger. Würde man diesen Sektor komplett auf Wasserkraft, Windkraft und Photovoltaik umstellen, könnte man den orangenen Balken fast komplett einsparen - quasi ohne Verhaltensänderung! <br />
 Auch fällt der Sektor Verkehr auf (rot). Die Treibhausgas einsparenden, technologischen Weiterentwicklungen wie sparsame Antriebe werden durch ein erhöhtes Verkehrsaufkommen und schwerere Fahrzeuge wieder zunichte gemacht \[6\]. Denn wie in der Grafik ersichtlich ist, konnte im Verkehrssektor keinerlei Treibhausgas Einsparungen erreicht werden. <br />
-![Bild 2](treibhausgase_nach_sektor.png)
+![Treibhausgase nach Sektor](treibhausgase_nach_sektor.png)
 
 Grob zusammengefasst sind dies die Ursachen der erhöhten und steigenden Treibhausgase in unserer Atmosphäre. Ihre Auswirkung ist die Erderwärmung \[1\].
 
 Das Thema der folgenden Umweltecke wird sein, wieso erhöhte Temperaturen überhaupt problematisch sind. Referenzen aus diesem Beitrag gibt es „anklickbar“ unter https://twitter.com/ueckebrgn oder diesem QR-Code. <br />
-![Bild 3](ueckebrgn_qr_code.png)
+![QRCode fuer Links](ueckebrgn_qr_code.png)
 
 ----
 *Obiger QR-Code ist für die gedruckte Ausgabe, hier die Links für die online Version:*
 
-\[1\]: Erderwärmung durch CO2, https://github.com/mbbrgn/umweltecke/blob/master/2020-06-05_erderwaermung_durch_C02/text.md, Umweltecke 2020-06-05 <br /> 
-\[2\]: „Kleine Gase - Grosse Wirkung: Der Klimawandel“, D. Nelles, C. Serrer, **Seite 35-37**, 2018  <br /> 
-\[3\]: „Climate Change 2007, The Physical Science Basis“, S. Solomon, D. Qin, M. Manning, M. Marquis, K. Averyt, M. M.B. Tignor, H. L. Miller, Z. Chen, **Seite 514-515**, https://archive.ipcc.ch/pdf/assessment-report/ar4/wg1/ar4_wg1_full_report.pdf, Cambridge University Press, 2007 <br /> 
+\[1\]: Wieso erwärmt sich die Erde durch Kohlenstoffdioxid (CO2), https://github.com/mbbrgn/umweltecke/blob/master/001_wieso_erwaermt_sich_die_erde_durch_co2/text.md, Umweltecke 2020-06-05 <br /> 
+\[2\]: „Kleine Gase - Grosse Wirkung: Der Klimawandel“, D. Nelles, C. Serrer, Seite 35-37, 2018  <br /> 
+\[3\]: „Climate Change 2007, The Physical Science Basis“, S. Solomon, D. Qin, M. Manning, M. Marquis, K. Averyt, M. M.B. Tignor, H. L. Miller, Z. Chen, Seite 514-515, https://archive.ipcc.ch/pdf/assessment-report/ar4/wg1/ar4_wg1_full_report.pdf, Cambridge University Press, 2007 <br /> 
 \[4\]: https://www.umweltbundesamt.de/themen/klima-energie/treibhausgas-emissionen/emissionsquellen#energie-stationar, Daten als Excel-Datei abgerufen 2020-06-26 <br /> 
-\[5\]: https://github.com/mbbrgn/umweltecke/blob/master/02_woher_kommen_treibhausgase/emissionsquellen.ipynb 2020-06-29 <br /> 
-\[6\]: „Klimaschutz in ZahlenFakten, Trends und Impulse deutscher Klimapolitik“, **Seite 38**, https://www.bmu.de/fileadmin/Daten_BMU/Pools/Broschueren/klimaschutz_in_zahlen_2018_bf.pdf Seite 38, 2018 <br /> 
+\[5\]: Jupyter Notebook welches die Grafiken dieses Artikels erzeugt https://github.com/mbbrgn/umweltecke/blob/master/002_woher_stammen_die_treibhausgase_unserer_atmosphaere/emissionsquellen.ipynb 2020-06-29 <br /> 
+\[6\]: „Klimaschutz in ZahlenFakten, Trends und Impulse deutscher Klimapolitik“, Seite 38, https://www.bmu.de/fileadmin/Daten_BMU/Pools/Broschueren/klimaschutz_in_zahlen_2018_bf.pdf Seite 38, 2018 <br /> 
 
 
