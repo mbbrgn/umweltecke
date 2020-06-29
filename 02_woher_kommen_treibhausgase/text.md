@@ -1,25 +1,29 @@
 # Umweltecke
 
-Die letzte Umweltecke hatte erklärt, wieso sich die Erde durch Treibhausgase erwärmt \[1\]. Diese Umweltecke geht darauf ein „woher die Treibhausgase unserer Atmosphäre“ stammen.
+Nachdem die letzte Umweltecke erklärt hatte, wieso sich die Erde durch Treibhausgase erwärmt \[1\], geht es heute um das Thema: „Woher stammen die Treibhausgase unserer Atmosphäre“.
 
-Die CO2-Konzentration in unserer Atmosphäre sollte, rein basierend auf natürlichen Prozessen, auf der Südhalbkugel der Erde höher sein als auf der Nordhalbkugel. In Wirklichkeit ist das Gegenteil der Fall \[5\] - daraus lässt sich schliessen, dass die menschengemachte CO2 Emissionen der Nordhalbkugel (in welcher sich die meisten Industrienationen befinden) sehr viel höher ist.
+Die Natur selbst gleicht ihre eigenen Treibhausgas-Emissionen wieder aus \[2\]. Es geht sogar darüber hinaus: Das Meer und terrestrische Ökosysteme nehmen zusätzlich einen großen Teil (45%) der menschengemachten Treibhausgase auf \[3\]. Die in der Atmosphäre verbleibenden, menschengemachten Treibhausgas-Emissionen summieren sich jedoch Jahr für Jahr auf (deren aktuell wichtigster Bestandteil CO2 \[2\] ist nicht flüchtig, Zeitskala 30 bis 100 Jahre \[3\]). Diese kumulativ über die Jahre angesammelten Treibhausgas-Emissionen zeigt das erste Bild beispielhaft für Deutschland \[4, 5\]. <br />
+![Bild 1](test/treibhausgase_kumulativ.png)
 
-Vulkanismus und Sonnenaktivität gleichen sich über die Jahre hinweg aus \[2\]. Ebenso gleichen sich natürlich Quellen wie Vegitation, Boden & tote organische Substanzen aus - das Meer und terrestrische Ökosysteme nehmen sogar 55% der von Menschen gemachten Treibhausgase auf \[3\]. Die Menschengemachten CO2 Emissionen summieren sich über die Jahre, wie für Deutschland im ersten Bild \[6, 7\] gezeigt wird. Sie sind nicht flüchtig und werden natürlich sehr langsam abgebaut (Zeitskala 30 bis ein paar 100 Jahre) \[4\]. <br />
-<img src="treibhausgase_kumulativ.png" width="400" height="400" />
+Die im Bild gezeigte, Jahr für Jahr steigende Treibhausgas-Menge in unserer Atmosphäre ist der Grund, wieso es so wichtig ist, den Treibhausgas Ausstoß aktiv zu reduzieren, anstatt ihn einfach nur stabil zu halten.
 
-Blickt man auf die menschengemachten Treibhausgas-Emissionen Deutschlands im zweiten Bild \[6, 7\] so fällt die Energiewirtschaft als einer der größten Ursachen auf. Durch die erneuerbaren Energien und effektivere Engienutzung fällt dieser beständig. Würde man alles auf CO2 arme Energiequellen wie Wasserkraft, Windkraft und Photovoltaik umstellen - könnte man den orangenen Balken komplett einsparen - ohne Verhaltensänderung. Auch fällt der Sektor Verkehr auf. Die technologischen Weiterentwicklungen wie sparsame Antrieben werden durch ein erhöhtes Verkehrsaufkommen und auch schwerere Fahrzeuge zu Nichte gemacht. <br />
-<img src="treibhausgase_nach_sektor.png" width="400" height="400" />
+Aber woher kommen diese menschengemachte Treibhausgas-Emmisionen in Deutschland? Die Hauptverursacher zeigt das zweite Bild \[4, 5\]. Hier fällt die Energiewirtschaft (orange) als einer der größten Verursacher von Treibhausgas auf. Durch erneuerbare Energien und effektivere Energienutzung wird dessen Treibhausgas Ausstoß von Jahr zu Jahr weniger. Würde man diesen Sektor komplett auf Wasserkraft, Windkraft und Photovoltaik umstellen, könnte man den orangenen Balken fast komplett einsparen - quasi ohne Verhaltensänderung! <br />
+Auch fällt der Sektor Verkehr auf (rot). Die Treibhausgas einsparenden, technologischen Weiterentwicklungen wie sparsame Antriebe werden durch ein erhöhtes Verkehrsaufkommen und schwerere Fahrzeuge wieder zunichte gemacht \[6\]. Denn wie in der Grafik ersichtlich ist, konnte im Verkehrssektor keinerlei Treibhausgas Einsparungen erreicht werden. <br />
+![Bild 2](treibhausgase_nach_sektor.png)
 
-So, jetzt kennen wir die Ursache der erhöhten Treibhausgase in der Atmosphäre und deren Wirkung: die Erderwärmung \[1\]. D.h. Die nächsten Umweltecke geht dann darauf ein, wie so erhöte Temperaturen überhaupt problematisch sind.
+Grob zusammengefasst sind dies die Ursachen der erhöhten und steigenden Treibhausgase in unserer Atmosphäre. Ihre Auswirkung ist die Erderwärmung \[1\].
+
+Das Thema der folgenden Umweltecke wird sein, wieso erhöhte Temperaturen überhaupt problematisch sind. Referenzen aus diesem Beitrag gibt es „anklickbar“ unter https://twitter.com/ueckebrgn oder diesem QR-Code. <br />
+![Bild 3](ueckebrgn_qr_code.png)
 
 ----
 *Obiger QR-Code ist für die gedruckte Ausgabe, hier die Links für die online Version:*
 
 \[1\]: Erderwärmung durch CO2, https://github.com/mbbrgn/umweltecke/blob/master/2020-06-05_erderwaermung_durch_C02/text.md, Umweltecke 2020-06-05 <br /> 
-\[2\]: „Kleine Gase - Grosse Wirkung: Der Klimawandel“, D. Nelles, C. Serrer, **Seite 35**, 2018  <br /> 
-\[3\]: „Climate Change 2007, The Physical Science Basis“, S. Solomon, D. Qin, M. Manning, M. Marquis, K. Averyt, M. M.B. Tignor, H. L. Miller, Z. Chen, **Seite 515**, https://archive.ipcc.ch/pdf/assessment-report/ar4/wg1/ar4_wg1_full_report.pdf, Camebridge University Press, 2007 <br /> 
-\[4\]: „Climate Change 2007, The Physical Science Basis“, S. Solomon, D. Qin, M. Manning, M. Marquis, K. Averyt, M. M.B. Tignor, H. L. Miller, Z. Chen, **Seite 514**, https://archive.ipcc.ch/pdf/assessment-report/ar4/wg1/ar4_wg1_full_report.pdf, Camebridge University Press, 2007 <br /> 
-\[5\]: „Climate Change 2007, The Physical Science Basis“, S. Solomon, D. Qin, M. Manning, M. Marquis, K. Averyt, M. M.B. Tignor, H. L. Miller, Z. Chen, **Seite 517**, https://archive.ipcc.ch/pdf/assessment-report/ar4/wg1/ar4_wg1_full_report.pdf, Camebridge University Press, 2007 <br /> 
-\[6\]: https://www.umweltbundesamt.de/themen/klima-energie/treibhausgas-emissionen/emissionsquellen#energie-stationar, Daten als Excel-Datei abgerufen 2020-06-26
-\[7\]: TODO: link zu notebook
+\[2\]: „Kleine Gase - Grosse Wirkung: Der Klimawandel“, D. Nelles, C. Serrer, **Seite 35-37**, 2018  <br /> 
+\[3\]: „Climate Change 2007, The Physical Science Basis“, S. Solomon, D. Qin, M. Manning, M. Marquis, K. Averyt, M. M.B. Tignor, H. L. Miller, Z. Chen, **Seite 514-515**, https://archive.ipcc.ch/pdf/assessment-report/ar4/wg1/ar4_wg1_full_report.pdf, Cambridge University Press, 2007 <br /> 
+\[4\]: https://www.umweltbundesamt.de/themen/klima-energie/treibhausgas-emissionen/emissionsquellen#energie-stationar, Daten als Excel-Datei abgerufen 2020-06-26 <br /> 
+\[5\]: https://github.com/mbbrgn/umweltecke/blob/master/02_woher_kommen_treibhausgase/emissionsquellen.ipynb 2020-06-29 <br /> 
+\[6\]: „Klimaschutz in ZahlenFakten, Trends und Impulse deutscher Klimapolitik“, **Seite 38**, https://www.bmu.de/fileadmin/Daten_BMU/Pools/Broschueren/klimaschutz_in_zahlen_2018_bf.pdf Seite 38, 2018 <br /> 
+
 
