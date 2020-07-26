@@ -22,8 +22,7 @@ Nachdem diese Umweltecke auf lokale Auswirkungen der Temperaturerhöhung eingega
 
 \[1\]: https://github.com/mbbrgn/umweltecke/blob/master/002_woher_stammen_die_treibhausgase_unserer_atmosphaere/text.md <br />
 \[2\]: https://www.cipra.org/de/cipra/international/projekte/abgeschlossen/cc-alps/ueber-ccalps/klimawandel-alpen, Internationale Alpenschutzkommission CIPRA<br />
-\[3\]: https://www.ardmediathek.de/daserste/video/wo-unser-wetter-entsteht/wie-der-klimawandel-die-alpen-veraendert/das-erste/Y3JpZDovL2Rhc2Vyc3RlLmRlL3dvLXVuc2VyLXdldHRlci1lbnRzdGVodC9lMzRlOWQ1NC0xZTA2LTRkOTUtYTdmYS0zN2JjYWQ2YmU3NDc/, Wie der Klimawandel die Alpen verändert
-22.06.2020, Wo unser Wetter entsteht, Das Erste<br />
+\[3\]: https://www.ardmediathek.de/daserste/video/wo-unser-wetter-entsteht/wie-der-klimawandel-die-alpen-veraendert/das-erste/Y3JpZDovL2Rhc2Vyc3RlLmRlL3dvLXVuc2VyLXdldHRlci1lbnRzdGVodC9lMzRlOWQ1NC0xZTA2LTRkOTUtYTdmYS0zN2JjYWQ2YmU3NDc/, Wie der Klimawandel die Alpen verändert, 22.06.2020, Wo unser Wetter entsteht, Das Erste<br />
 \[4\]: https://de.wikipedia.org/wiki/Globale_Erw%C3%A4rmung, Globale Erwärmung, Wikipedia<br />
 \[5\]: https://de.wikipedia.org/wiki/Barometrische_H%C3%B6henformel#Typische_Temperaturgradienten Barometrische Höhenformel, Typische Temperaturgradienten, Abgerufen 2020-07-25<br />
 \[6\]: https://www.lwf.bayern.de/boden-klima/baumartenwahl/015506/index.php Klimahüllen für 27 Waldbaumarten - AFZ-Der Wald 23/2007, Bayerische Landesanstalt für Wald und Forstwirtschaft<br />
