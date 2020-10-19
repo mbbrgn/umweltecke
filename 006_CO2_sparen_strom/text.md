@@ -1,4 +1,4 @@
-﻿# Umweltecke
+# Umweltecke
 
 die bisherigen Umweltecken haben erklärt, wieso der Klimawandel
 menschengemacht und überhaupt ein Problem ist. 
