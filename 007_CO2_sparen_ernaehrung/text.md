@@ -1,25 +1,26 @@
 # Umweltecke
 
-Die letzte Umweltecke zeigte, dass jeder ganz einfach mit dem Wechsel auf Ökostrom einen  Beitrag gegen die Erderwärmung liefert. Diese Umweltecke befasst sich mit unserer Ernährung und deren Auswirkung auf die Klimaerwärmung.
+Die letzte Umweltecke zeigte, dass jeder ganz einfach mit dem Wechsel auf nachhaltig erzeugten Ökostrom einen Beitrag gegen die Erderwärmung liefert. Diese Umweltecke befasst sich mit unserer Ernährung und deren Auswirkung auf die Klimaerwärmung.
 
-Klar, wie jeder weiss, vermeiden lokal oder regional erzeugt Lebensmittel lange Transportwege und den damit verbundenen CO2 Fußabdruck. Eindrücklich ist das bei Nahrungs- und Futtermittel aus Übersee (nicht unser Nachbarort) zu sehen, welche nur 3.5% vom deutschen Verbrauch ausmachen. Sie verursachen allerdings 39% der Emissionen, die durch Transporte von Nahrungs- und Futtermitteln hervorgerufen werden \[s87 ubauhk\].
+Klar, wie jeder weiss, haben lokal oder regional erzeugte Lebensmittel keine langen Transportwege und damit einen geringeren CO2 Fußabdruck. Welch großen Einfluss der Transportweg auf die Emmissionen hat, ist bei Nahrungs- und Futtermitteln aus Übersee (nicht unser Nachbarort, gell) zu sehen, die nur 3.5 % vom deutschen Konsum ausmachen. Sie verursachen allerdings 39 % der Emissionen, die durch Transporte von Nahrungs- und Futtermitteln hervorgerufen werden \[s87 ubauhk\].
 
-Noch offensichtlicher ist der negative Effekt von Lebensmittelabfällen. Denn jedes hergestellte Lebensmittel hat ja schon Energie, Ackerfläche, CO2 usw verbraucht. Das ist einfach unnötig. In Deutschlands-Privathaushalten sind es jährlich grob 6.7 Millionen Tonnen oder umgerechnet 80Kg pro Person \[ubazfg\].
+Noch offensichtlicher ist der negative Effekt von Lebensmittelabfällen. Denn jedes hergestellte Lebensmittel hat ja schon Energie, Ackerfläche und Wasser verbraucht und dabei CO2 verursacht. Das dann ungenutzt wegzuwerfen ist einfach unnötig. In Deutschlands Privathaushalten sind es jährlich grob 6.7 Millionen Tonnen oder umgerechnet 80 Kg pro Person \[ubazfg\].
 
-In der folgenden Abbildung ist das CO2 Äquivalent gezeigt, welches zur Erzeugung eines Kilo Lebensmittels benötigt wird \[s87 ubauhk\]. Hierfür sollte man im Hinterkopf behalten, dass ein Kilo Lebensmittel, je nach Produkt, ganz unterschiedliche Mengen and Nährwert bzw. Kalorine enthält.
+Die folgende Abbildung zeigt das CO2 Äquivalent, das zur Erzeugung eines Kilos des jeweiligen Lebensmittels benötigt wird \[s87 ubauhk\]. Hierfür sollte man im Hinterkopf behalten, dass ein Kilo Lebensmittel, je nach Produkt, ganz unterschiedliche Mengen Nährwert bzw. Kalorien enthält.
 ![Co2 Lebensmittel](treibhausgase_lebensmittel.png)
 
-Eindrücklich sticht der CO2 Fußabdruck von Rindfleisch mit 7 - 28Kg CO2 pro Kg Fleisch hervor. Die Schwankung ist hier recht hoch, da es einen Unterschied macht, ob die Kuh z.B. zuvor zur Milchproduktion genutzt wurde. Der generell hohe Wert liegt vorallem daran, dass ein Rind als Widerkäuer große Mengen Methan (CH4) ausstösst, welches ein 28mal höheres Treibhasgaspotentail als CO2 hat \[gasgrwirk\]. Rechnet man zu diesem den hohe Flächenverbrauch für die Haltung und der Ernährung von Rindern mit ein, so sind es weltweit gesehen sogar 60Kg CO2 pro Kg Fleisch \[viscap\]. Hierzu muss man wissen, dass der Futtermittelanbau wie Soja der vorwiegende Grund zur Abholzung des Regenwalds sind.
+Der CO2 Fußabdruck von Rindfleisch sticht mit 7 - 28 Kg CO2 pro Kg Fleisch ganz besonders hervor. Die Schwankung ist hier recht hoch, da es einen Unterschied macht, ob die Kuh z.B. zuvor zur Milchproduktion genutzt wurde. So oder so ist der Wert generell vergleichsweise hoch. Das liegt vor allem daran, dass ein Rind als Widerkäuer große Mengen Methan (CH4) ausstösst, welches ein 28-Mal höheres Treibhasgaspotential als CO2 hat \[gasgrwirk\]. Rechnet man zu diesem Wert noch den hohen Flächenverbrauch für die Haltung und den Anbau der Futtermittel für Rinder mit ein, so sind es weltweit gesehen sogar 60 Kg CO2 pro Kg Fleisch \[viscap\]. Hierzu muss man wissen, dass der Futtermittelanbau von beispielsweise Soja der vorwiegende Grund für die Abholzung des Regenwalds ist. Und weniger Wald bedeutet noch mehr CO2 in der Athmosphäre.
 
-Überraschend ist auch, das das Wurzelgemüse Kartoffeln mit 0.1Kg CO2 Verbrauch ein drittel weniger CO2 Verbrauch in vgl zu Weizen / Mischbrot hat.
+Überraschend ist auch, dass das Wurzelgemüse Kartoffeln mit 0.1 Kg CO2 Emmission im Vergleich zu Weizen oder Mischbrot nur ein Drittel CO2 verursacht.
 
-Aber ist der CO2 Abdruck der Ernährung wirklich so groß? Diese Frage beantwortet eine Studie im Fachmagazin Science \[sc20\] mit ja. Weltweit gesehen verursacht die Lebensmittelproduktion 30% der globalen Treibhausgas Emissionen, in Deutschland sind es grob 15% \[s82 ubauhk\].
+Aber ist der CO2 Fußabdruck unserer Ernährung wirklich so groß? Diese Frage beantwortet eine Studie im Fachmagazin Science mit ja \[sc20\]. Weltweit gesehen, verursacht die Lebensmittelproduktion 30 % der globalen Treibhausgas Emissionen, in Deutschland sind es grob 15 % \[s82 ubauhk\].
 
-D.h. wir alle können durch die Umstellung der Ernährung auf CO2 ärmere Nahrungsmittel unseren Beitrag zum Klimaschutz leisten. Das reduzieren des Fleisch und Milchproduktekonsums liefert den größten Beitrag. Zusätzlich macht es Sinn, die reduzierte Menge Fleisch in guter Qualität von unseren lokalen Bauern mit ihren großen Wiesen und Weideflächen zu beziehen. So können wir uns sicher sein, dass für dieses Fleisch kein Regenwald abgeholzt wurde.
+Das bedeutet: Wir alle können durch die Umstellung der Ernährung auf CO2 ärmere Nahrungsmittel einen wichtigen und spürbaren Beitrag zum Klimaschutz leisten. Das Reduzieren des Fleisch- und Milchproduktekonsums liefert den größten Beitrag. Zusätzlich macht es Sinn, die reduzierte Menge Fleisch in guter Qualität von unseren lokalen Bauern zu beziehen. Sie nutzen bestehende Wiesen und Weideflächen und wir können uns sicher sein, dass für dieses Fleisch kein Regenwald abgeholzt wurde. Auch sollte man sich, ähnlich wie bei Kleidung fragen, ob es denn wirklich immer billig und billiger sein muss und man dafür weite Transporte und fragwürdige Bedingungen in Kauf nimmt. Oder ob das Leben eines Tieres nicht einen angemessenen Gegenwert haben sollte.
 
-Generell haben regional und saisonale Lebensmittel einen geringeren CO2
-Fußabdruck und auch ganz klar, das vermeiden von Lebensmittelabfällen
-liefert seinen Beitrag.
+Generell haben regional und saisonale Lebensmittel einen geringeren CO2 Fußabdruck. Und ganz klar liefert auch die Vermeidung von Lebensmittelabfällen seinen Beitrag.
+
+Die durch eckige Klammern gekennzeichneten Literaturverweise gibt es wie immer "anklickbar" unter https://twitter.com/ueckebrgn oder diesem QR-Code. MB <br/>
+![QRCode fuer Links](ueckebrgn_qr_code.png)
 
 ----
 
