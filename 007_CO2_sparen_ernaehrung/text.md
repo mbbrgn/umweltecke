@@ -24,8 +24,7 @@ Die durch eckige Klammern gekennzeichneten Literaturverweise gibt es wie immer "
 
 ----
 
-- \[stasta\]: https://www.statista.com/statistics/263979/global-cattle-population-since-1990/ <br/>
-- \[gasgrwirk\]: "Kleine Gase - Grosse Wirkung: Der Klimawandel", D. Nelles, C. Serrer, Seite 35-37, 2018  <br /> 
+- \[gasgrwirk\]: "Kleine Gase - Grosse Wirkung: Der Klimawandel", D. Nelles, C. Serrer, Seite 35-37, 2018  <br />
 - \[viscap\]: https://www.visualcapitalist.com/visualising-the-greenhouse-gas-impact-of-each-food <br/>
 - \[ubazfg\]: https://www.umweltbundesamt.de/presse/pressemitteilungen/ernaehrung-der-deutschen-belastet-das-klima<br/>
 - \[ubauhk\]: https://www.umweltbundesamt.de/sites/default/files/medien/378/publikationen/daten_zur_umwelt_umwelt_haushalte_und_konsum_2.pdf <br/>
