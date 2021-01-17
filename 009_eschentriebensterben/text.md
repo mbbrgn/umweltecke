@@ -1,6 +1,7 @@
 # Umweltecke
 
-In dieser Umweltecke geht es nicht um den Klimaschutz sondern um ein aktuelles Thema, das Eschensterben. Auch in Bergen sind
+In dieser Umweltecke geht es nicht um den Klimaschutz sondern um ein
+aktuelles Thema, das Eschensterben. Auch in Bergen sind
 viele Eschen betroffen. So wurden z.B. viele Eschen an der 
 Achenstauden (im Wald an der Weißache hinter dem Wertstoffhof) gefällt,
 da diese Umzustürze drohten. Die Blätter einer gesunden Esche sieht man in der
