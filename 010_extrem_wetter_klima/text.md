@@ -14,10 +14,10 @@ Da Extremwetterereignisse sowohl zeitlich als auch räumlich selten auftreten, i
 einer bestimmten Ursache zuzuordnen. Und da man heutzutage durch die Medien
 jedes Extremwetter rund um die Welt mitbekommt, und da der Schaden durch die hohe
 Bevölkerungsdichte eher zunimmt, hat man subjektiv den Eindruck,
-als ob die Extremwetterlagen stark zunehmen. Wissenschaftlich ist der
-Zusammenhang zwischen Klimaerwärmung und Extremwetter nicht immer so eindeutig \[ploeger\].
+als ob die Extremwetterlagen stark zunehmen. Wissenschaftlich gesehen, ist an den 
+Zusammenhang zwischen Klimaerwärmung und Extremwetter oft aber nicht immer etwas dran \[ploeger\].
 
-Jedoch gibt es für Sturmtiefs in mittleren Breiten den im folgenden vereinfachten Zusammenhang: Durch den Temperaturunterschied zwischen den
+Für Sturmtiefs in mittleren Breiten gibt es den im folgenden vereinfachten Zusammenhang: Durch den Temperaturunterschied zwischen den
 Tropen und der Arktis strömen
 hohe Winde von warm nach kalt. Diese Winde werden durch die Erdrotation
 abgelenkt und Jetstreams genannt. Der uns betreffende Polar-Front-Jetstream
@@ -35,9 +35,8 @@ nun der ausgleichende Jetstream in seiner Stärke ab. Dadurch verweilen dann
 sowohl Tief- als auch Hochdruckgebiete länger an einem Ort.
 Überschwemmungen und Dürren können die Folge sein \[eskp\].
 Eine Studie von 2019 \[romanowsky\] hat diesen Zusammenhang
-erstmalig auch durch Klimamodelle nachweisen können. Bislang gibt es allerdings wenige
-Modellrechnungen dieser Art,
-deshalb sollte man sie noch mit ein bisschen Vorsicht genießen.
+erstmalig auch durch Klimamodelle untermauern können. Bislang gibt es allerdings noch wenige
+Modellrechnungen dieser Art.
 
 Die durch eckige Klammern gekennzeichneten Literaturverweise gibt es wie immer "anklickbar" unter https://twitter.com/ueckebrgn oder diesem QR-Code. MB <br/>
 ![QRCode fuer Links](ueckebrgn_qr_code.png)
