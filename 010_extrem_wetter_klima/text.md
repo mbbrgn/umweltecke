@@ -1,28 +1,23 @@
 # Umweltecke
 
 Während die letzte Umweltecke das aktuelle lokale Thema
-Enschentriebensterben behandelt hat, geht es diesmal um den möglichen
-Zusammenhang zwischen Extremwetterereignisse und der Klimaerwärmung.
+Eschensterben behandelt hat, geht es diesmal um den möglichen
+Zusammenhang zwischen Extremwetterereignissen, wie die eisige Kälte in Norddeutschland letzte Woche, und der Klimaerwärmung.
 
 Rein vom Begriff her beschreibt Klima das durchschnittliche Wetter an einen
 bestimmten Platz über eine lange Zeitspanne (Jahrzehnte) \[WMO\].
-Als Beispiel: wenn in Bergen im Januar einer Woche Föhn mit frühlingshaften
+Als Beispiel: Wenn in Bergen im Januar auf eine Woche Föhn mit frühlingshaften
 Temperaturen eine Woche klirrende Kälte folgt, so gleichen sich beide Effekte
 aus. Es sind gemittelt also zwei normale Wochen.
 
-Das regionale Klima mittelt dann zusätzlich die Wetterereignisse
-über eine Region. Herrscht bei uns beispielsweise Föhn und es ist Warm, im
-Norden dagegen bitter Kalt, so wiegen sich auch diese beide Effekte auf.
-
-Da Extremwetterereignisse sowohl zeitlich als auch räumlich selten auftreten ist es von Haus aus schwer, sie 
+Da Extremwetterereignisse sowohl zeitlich als auch räumlich selten auftreten, ist es von Haus aus schwer, sie 
 einer bestimmten Ursache zuzuordnen. Und da man heutzutage durch die Medien
-jedes Extremwetter rund um die Welt mitbekommt und der Schaden durch die hohe
-Bevölkerungsdichte eher zunimmt, hat man leicht subjektiv den Eindruck,
-als ob die Extremwetterlagen eher zunehmen. Wissenschaftlich ist der
-Zusammenhang zwischen Klimaerwärmung und Extremwetter nicht so eindeutig
-\[ploeger\].
+jedes Extremwetter rund um die Welt mitbekommt, und da der Schaden durch die hohe
+Bevölkerungsdichte eher zunimmt, hat man subjektiv den Eindruck,
+als ob die Extremwetterlagen stark zunehmen. Wissenschaftlich ist der
+Zusammenhang zwischen Klimaerwärmung und Extremwetter nicht immer so eindeutig \[ploeger\].
 
-Jedoch gibt es speziell für Sturmtiefs in mittleren Breiten den im folgenden vereinfachten Zusammenhang: Durch den Temperaturunterschied zwischen den
+Jedoch gibt es für Sturmtiefs in mittleren Breiten den im folgenden vereinfachten Zusammenhang: Durch den Temperaturunterschied zwischen den
 Tropen und der Arktis strömen
 hohe Winde von warm nach kalt. Diese Winde werden durch die Erdrotation
 abgelenkt und Jetstreams genannt. Der uns betreffende Polar-Front-Jetstream
@@ -40,10 +35,9 @@ nun der ausgleichende Jetstream in seiner Stärke ab. Dadurch verweilen dann
 sowohl Tief- als auch Hochdruckgebiete länger an einem Ort.
 Überschwemmungen und Dürren können die Folge sein \[eskp\].
 Eine Studie von 2019 \[romanowsky\] hat diesen Zusammenhang
-erstmalig auch durch Modellrechnungen nachweisen können. Bislang gibt es allerdings wenige
+erstmalig auch durch Klimamodelle nachweisen können. Bislang gibt es allerdings wenige
 Modellrechnungen dieser Art,
-deshalb sollte man den Zusammenhang noch mit ein bisschen Vorsicht genießen.
-
+deshalb sollte man sie noch mit ein bisschen Vorsicht genießen.
 
 Die durch eckige Klammern gekennzeichneten Literaturverweise gibt es wie immer "anklickbar" unter https://twitter.com/ueckebrgn oder diesem QR-Code. MB <br/>
 ![QRCode fuer Links](ueckebrgn_qr_code.png)
