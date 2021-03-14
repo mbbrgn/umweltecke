@@ -20,5 +20,5 @@ MB <br/>
 ----
 
 - \[earth-hour-tipps\]: https://www.wwf.de/earth-hour/tipps, abgerufen 2021-03-14 <br/>
-- \[earthhour.org\]: https://www.earthhour.org, abgerufen 2021-03-14 <br/> 
+- \[earthhour\]: https://www.earthhour.org, abgerufen 2021-03-14 <br/> 
 
