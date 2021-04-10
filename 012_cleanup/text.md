@@ -1,9 +1,9 @@
 # Umweltecke
 
-einige andere und ich möchten zu einem Bergener "Rama dama" am __Samstag den 17. April__ aufrufen. Für alle, die "Rama dama" nicht kennen: Es geht darum, den Müll in der Natur aufzuräumen. Wieso gerade jetzt? Aktuell kann man den Müll noch gut sehen, da die Wiesen noch nicht hoch gewachsen. Corona-bedingt kann es
+einige andere und ich möchten zu einem Bergener "Rama dama" am __Samstag den 17. April__ aufrufen. Für alle, die "Rama dama" nicht kennen: Es geht darum, den Müll in der Natur aufzuräumen. Wieso gerade jetzt? Aktuell kann man den Müll noch gut sehen, da die Wiesen noch nicht hoch gewachsen sind. Corona-bedingt kann es
 leider keine gemeinsame Gruppen-Aktion mit abschließender Brotzeit o.ä.
 geben. Als Ersatz bekommt jedes Kind, das mitmacht, einen Gutschein für
-eine Kugel Eis (natürlich aus der Waffel ;).
+eine Kugel Eis (natürlich aus der Waffel ;)).
 
 Wie läuft es ab? Ihr bekommt die Müllsäcke dafür am Wertstoffhof. Die
 Gemeinde stellt sie zur Verfügung und sie können am 17. April in der Früh
