@@ -1,29 +1,22 @@
 # Umweltecke
 
-ich möchte zu einen Bergener "Rama dama" / Cleanup am Samstag den 17. April
+ich möchte zu einen Bergener "Rama dama" am __Samstag den 17. April__
 (plus die folgende Woche, falls jemand am 17. verhindert ist) aufrufen. Für
 alle die "Rama dama" nicht kennen, es geht darum den Müll in der Natur
 aufzuräumen. Wieso gerade jetzt? Da die Wiesen noch nicht hoch gewachsen
 sind, kann man den Müll aktuell noch gut sehen. Corona bedingt kann es
 leider keine gemeinsame Gruppen-Aktion mit abschließender Brotzeit o.ä.
-geben. Als Ersatz bekommt jedes Kind, welches mitmacht, einen Gutschein für
+geben. Als Ersatz bekommt jedes Kind das mitmacht, einen Gutschein für
 eine Kugel Eis (natürlich aus der Waffel ;).
 
 Wie läuft es ab? Ihr bekommt die Müllsäcke dafür am Wertstoffhof, die
 Gemeinde stellt sie zur Verfügung und sie können am 17. April in der früh
 abgeholt werden. Die Entsorgung des gesammelten Mülls übernimmt auch die
-Gemeinde. Schreibt deshalb eine kurze E-Mail mit Adresse an mbbrgn@gmx.de,
+Gemeinde. Schreibt dazu eine kurze E-Mail mit Adresse an mbbrgn@gmx.de,
 wir holen den Müll dann am Samstag den 17. April am frühen Abend bei Euch
-ab und die Kinder bekommen den versprochenen Gutschein für eine Kugel Eis.
+ab und die Kinder die mitgemacht haben bekommen den versprochenen Gutschein für eine Kugel Eis.
 
-Gerade an den Straßen und den Bächen liegt einiges an Müll herum. Aber
-bitte vorsicht oder besser nicht mit kleinen Kindern entlang der
-Hauptstrassen suchen.
-
-Neben dem Müllsack sollte man beim Müllsammeln Handschuhe und ein Warnweste
-macht Sinn, sobald man in der nähe von Straßen sammelt.
-
-Ich freue mich auf eine rege Beteiligung!
+Neben dem Müllsack sollte man beim Müllsammeln Handschuhe und festes Schuhwerk nicht vergessen. Ein Warnweste macht Sinn, sobald man in der nähe von Straßen sammelt. Ich freue mich auf eine rege Beteiligung!
 
 Aber wieso ist herumliegender Müll eigentlich schlecht? Die folgenden drei
 Beispiele sollen das veranschaulichen:
@@ -31,34 +24,33 @@ Beispiele sollen das veranschaulichen:
 Zigarettenstummel sind bei Aufräumaktionen das in Stückzahl am
 häufigsten aufgefundene Müllobjekt. Kein Wunder, denn jährlich werden
 weltweit 5.5 Billionen Zigaretten pro Jahr gefertigt. Um die Zahl in
-relation zu setzen: bei einer Weltbevölkerung von 8 Milliarden sind das 690
-Zigaretten pro Mensch pro Jahr.  Selbst wenn ein sehr kleiner Teil davon
-nicht in den ordungsgerechten Müll landet, ist das eine große Menge
-\[WikipediaZigrattenstummel, DeutschesKrebsForschungsZentrum\].  Dabei
-verseucht ein rumliegender Zigarettenstummel 40 Liter Grundwasser
+Relation zu setzen: bei einer Weltbevölkerung von 8 Milliarden sind das 690
+Zigaretten pro Mensch pro Jahr. Selbst wenn ein sehr kleiner Teil davon
+nicht ordnungsgerecht entsorgt wird, ist das eine große Menge
+\[WikipediaZigrattenstummel, DeutschesKrebsForschungsZentrum\]. Dabei
+verseucht schon ein Zigarettenstummel 40 Liter Grundwasser
 \[NaturschutzBund\], für Säuglinge / Kleinkinder kann er wegen des
 Nikotinsrests sogar tödlich sein.
 
 Noch schlimmer für das Grundwasser sind allerdings Batterien.
 Der Quecksilbergehalt einer einzigen Knopfzelle kann ausreichen, um 800000
-Liter Wasser ueber den Trinkwassergrenzwert hinaus zu belasten
-\[LexikonWasser\].
+Liter Wasser über den Trinkwassergrenzwert hinaus zu belasten \[LexikonWasser\].
 
 Als letztes Beispiel möchte ich das Plastik nehmen. Plastik & Plastikmüll
-reagiert chemisch kaum mit anderen Substanzen. Bei der Verrotung zersetzt
+reagiert chemisch kaum mit anderen Substanzen. Bei der Verrottung zersetzt
 sich das Plastik zu immer kleineren Teilen hin zu Mikroplastik.
-Mikroplastik selbst ist stark verbreitet, beispielsweise haben 
-haben britischen Forscher bei Meerwasserentnahmen vor den Küsten mehr
+Mikroplastik ist vor allem im Meer stark verbreitet, beispielsweise haben 
+haben britischen Forscher bei Wasserentnahmen vor den Küsten mehr
 Plastikstücke / Mikroplastik als Plankton gefunden \[Sueddeutscher\].
-Von Fischen wird Mirkoplastik mit Plankton verwechselt, und gelant auch so
+Von Fischen wird Mirkoplastik mit Plankton verwechselt, und gelangt auch so
 in unsere Nahrungskette. Das ist deshalb problematisch, da Mirkoplastik
 einerseits giftige und
 hormonell wirksame Zusatzstoffe, wie Weichmacher, Flammschutzmittel
 enthält, andererseits sich aber auch Schadstoffe wie Pestizide, DDT, PCB
-an Mirkoplastik anreichern \[UBA-Mikroplastik\].
+an Mikroplastik anreichern \[UBA-Mikroplastik\].
 
 Zusammengefasst: Müll hat in der Natur nichts verloren. Zu warten bis der
-Müll verrotetet ist keine Lösung wie man in der folgenden
+Müll verrottet ist keine Lösung wie man in der folgenden
 Verrottungstabelle erkennen kann \[Alpenverein, BJA-Regensburg\]:
 
 | Material | Jahre |
