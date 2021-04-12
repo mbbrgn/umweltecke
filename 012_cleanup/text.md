@@ -8,6 +8,8 @@ Neben dem Müllsack sollte man beim Müllsammeln Handschuhe und festes Schuhwerk
 
 Ich freue mich auf eine rege Beteiligung!
 
+![Ramadama](ramadama_bild.png)
+
 Aber wieso ist herumliegender Müll eigentlich schlecht? Die folgenden drei Beispiele sollen das veranschaulichen:
 
 Zigarettenstummel sind bei Aufräumaktionen das in Stückzahl am häufigsten aufgefundene Müllobjekt. Kein Wunder, denn jährlich werden weltweit 5.5 Billionen Zigaretten pro Jahr gefertigt. Um die Zahl ins Verhältnis zu setzen: Bei einer Weltbevölkerung von 8 Milliarden sind das 690 Zigaretten pro Mensch pro Jahr. Selbst wenn nur ein sehr kleiner Teil davon nicht ordnungsgerecht entsorgt wird, ist das eine große Menge \[WikipediaZigrattenstummel, DeutschesKrebsForschungsZentrum\]. Dabei verseucht schon ein Zigarettenstummel 40 Liter Grundwasser \[NaturschutzBund\], für Säuglinge / Kleinkinder kann er wegen des Nikotinsrests sogar tödlich sein.
