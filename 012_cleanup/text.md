@@ -2,7 +2,7 @@
 
 einige andere und ich möchten zu einem Bergener "Rama dama" am __Samstag den 17. April__ aufrufen. Für alle, die "Rama dama" nicht kennen: Es geht darum, den Müll in der Natur aufzuräumen. Wieso gerade jetzt? Aktuell kann man den Müll noch gut sehen, da die Wiesen noch nicht hoch gewachsen sind. Corona-bedingt kann es leider keine gemeinsame Gruppen-Aktion mit abschließendem Picknick o.ä. geben. Als Ersatz bekommt jedes Kind, das mitmacht, einen Gutschein für eine Kugel Eis (natürlich aus der Waffel ;)).
 
-Wie läuft es ab? Ihr bekommt Müllsäcke am Wertstoffhof oder verwendet eigene. Die Gemeinde stellt sie zur Verfügung und sie können ab sofort abgeholt werden. Die Entsorgung des gesammelten Mülls übernimmt die Gemeinde. Schreibt dazu bitte eine kurze E-Mail mit Adresse an mbbrgn@gmx.de, wir holen den Müll am Samstag den 17. April am frühen Abend bei Euch ab. Bei der Gelegenheit bekommen dann auch die Kinder, die mitgemacht haben, den versprochenen Gutschein für eine Kugel Eis.
+Wie läuft es ab? Ihr bekommt Müllsäcke am Wertstoffhof oder verwendet eigene. Die Gemeinde stellt sie zur Verfügung und sie können ab sofort abgeholt werden. Die Entsorgung des gesammelten Mülls übernimmt die Gemeinde. Schreibt dazu bitte eine kurze E-Mail mit Adresse an "mbbrgn (ät) gmx (Punkt) de", wir holen den Müll am Samstag den 17. April am frühen Abend bei Euch ab. Bei der Gelegenheit bekommen dann auch die Kinder, die mitgemacht haben, den versprochenen Gutschein für eine Kugel Eis.
 
 Neben dem Müllsack sollte man beim Müllsammeln Handschuhe und festes Schuhwerk nicht vergessen. Ein Warnweste macht Sinn, sobald man in der Nähe von Straßen sammelt. Neben den Bänken, Straßen, Spazier- und Wanderwegen sind auch die Bachläufe gute "Müll-Fundorte".
 
