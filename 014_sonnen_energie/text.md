@@ -17,8 +17,7 @@ nahe der Erdoberfläche. In anderen Worten: Gemittelt über Jahr und Fläche kö
 Dabei sticht heraus, dass
 das mögliche Potential der Sonnenenergie (Platz Nr. 1) um den Faktor 50 höher ist als
 des Windes (Platz Nr. 2). Daraus lässt sich ableiten, dass der Ausbau der
-
-Photovoltaik definitiv sinnvoll ist. Natürlich macht es Sinn, den Ausbau der Windkraft an Standorten, an denen viel Wind weht, auszubauen. Diese sind aber leider begrenzt (siehe oben). <br/>
+Photovoltaik definitiv sinnvoll ist. Natürlich macht auch der Ausbau der Windkraft an Standorten Sinn, an denen viel Wind weht. Diese sind aber leider begrenzt (siehe oben). <br/>
 Für die Gemeinde Bergen wäre z.B. der einzige Ort mit
 genügen Wind der Hochfellngipfel. Für die Photovoltaik gibt es auch in
 Bergen noch viel Potential. Das fällt besonders auf, wenn man vom
