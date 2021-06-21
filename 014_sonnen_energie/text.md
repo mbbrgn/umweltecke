@@ -38,10 +38,10 @@ Auch als Bürger können wir dazu beitragen und mehr Photovoltaik installieren. 
 der Balkonphotovoltaik einen guten Anteil ihres Energiebedarfs tagsüber selbst erzeugen. 
 Deshalb wird es in den nächsten Umweltecken um die verschiedenen Photovoltaik Möglichkeiten gehen.
 
-Die durch eckige Klammern gekennzeichneten Literaturverweise gibt es wie
-immer "anklickbar" unter https://twitter.com/ueckebrgn oder diesem QR-Code. <br/>
+Die durch eckige Klammern gekennzeichneten Literaturverweise gibt es 
+unter https://github.com/mbbrgn/umweltecke/blob/master/014_sonnen_energie/text.md
+<br/>
 MB <br/>
-![QRCode fuer Links](ueckebrgn_qr_code.png)
 
 ----
 
