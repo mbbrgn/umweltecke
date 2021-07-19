@@ -111,10 +111,10 @@ MB <br/>
 
 ----
 
-\[wikipedia/HK\]: https://de.wikipedia.org/wiki/Horst_K%C3%B6hler
-\[BK1\]: https://buergerrat-klima.de/wieso-ein-buergerrat-klima/die-ergebnisse
-\[BK2\]: https://buergerrat-klima.de/wer-ist-teil-des-buergerrat-klima/die-teilnehmenden
-\[BK3\]: https://buergerrat-klima.de/wieso-ein-buergerrat-klima
-\[Horst Köhler\]: https://buergerrat-klima.de/wieso-ein-buergerrat-klima/schirmherr-horst-koehler
-\[BR PDF\]: https://buergerrat-klima.de/content/pdfs/BK_210707_Empfehlungen_Digital.pdf
+\[wikipedia/HK\]: https://de.wikipedia.org/wiki/Horst_K%C3%B6hler <br/>
+\[BK1\]: https://buergerrat-klima.de/wieso-ein-buergerrat-klima/die-ergebnisse <br/>
+\[BK2\]: https://buergerrat-klima.de/wer-ist-teil-des-buergerrat-klima/die-teilnehmenden <br/>
+\[BK3\]: https://buergerrat-klima.de/wieso-ein-buergerrat-klima <br/> 
+\[Horst Köhler\]: https://buergerrat-klima.de/wieso-ein-buergerrat-klima/schirmherr-horst-koehler <br/>
+\[BR PDF\]: https://buergerrat-klima.de/content/pdfs/BK_210707_Empfehlungen_Digital.pdf <br/>
 
