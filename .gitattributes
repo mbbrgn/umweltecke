@@ -4,3 +4,4 @@
 *.[jJ][pP][gG] filter=lfs diff=lfs merge=lfs -text
 *.[jJ][pP][eE][gG] filter=lfs diff=lfs merge=lfs -text
 
+031_wasserhaushalt_weissache/bayernatlas_einzugsgebiet_marked_small.jpg filter=git diff=git merge=git -text
